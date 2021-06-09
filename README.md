@@ -1,2 +1,2 @@
 # dev-expert
-UI/UX Expert
+UI & UX Designer
